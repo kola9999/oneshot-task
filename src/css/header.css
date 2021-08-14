@@ -1,0 +1,15 @@
+.header {
+  margin: auto;
+  width: 100%;
+  display: flex;
+  overflow: hidden;
+  top: 0;
+  align-items: center;
+  justify-content: space-between;
+  z-index: 100;
+  border-bottom: 1px solid #f9f9f9;
+  padding-bottom: 10px;
+}
+.header_logo {
+  font-size: large;
+}
